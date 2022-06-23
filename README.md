@@ -1,7 +1,7 @@
 # How-to-Build-COVID-19-Data-Driven-Shiny-Apps-in-5mins
 
-The details of the codeset and plots are included in the attached Adobe Acrobat reader (.pdf) file in this repository. 
-You need to download the same to view the contents. There are referrals to other contents in BLUE colour also to follow.
+The details of the codeset and plots are included in the attached Microsoft Word Document (.docx) file in this repository. 
+You need to view the file in "Read Mode" to see the contents properly after downloading the same.
 
 Many databases exist in connection with COVID-19, but no virtual platform currently integrates a significant proportion of these sources. It then becomes difficult to make a global analysis, and to make connections between this often-medical information and external factors, notably socio-political. With this in mind, COVID-19 Data Hub aims to develop a unified dataset helpful for a better understanding of COVID-19.
 
